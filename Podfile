@@ -8,8 +8,8 @@ target 'Realm10' do
   # Pods for Realm10
 
   pod 'RxCocoa'
-  pod 'RealmSwift', '~> 4'
-  pod 'RxRealm', '~> 2'
+  pod 'RealmSwift', :git => 'https://github.com/realm/realm-cocoa'
+  pod 'RxRealm'
   pod 'PinLayout'
 
   target 'Realm10Tests' do
