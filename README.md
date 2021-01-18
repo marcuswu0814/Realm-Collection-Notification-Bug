@@ -33,12 +33,19 @@ Realm 10.5.0
 
 ```
 👇
-🔆 Update Results<PersonObject> <0x7fa8b3c0b130> (
+🔆 Update Results<PersonObject> <0x7fe895a04ca0> (
 	[0] PersonObject {
-		id = 4DB9E5AC-9CC4-4907-839E-D64F0729893E;
-		name = 4DB9E5AC-9CC4-4907-839E-D64F0729893E;
+		id = 1CD33C9B-21C1-42FE-9BDA-E32053D72DEC;
+		name = 1CD33C9B-21C1-42FE-9BDA-E32053D72DEC;
 		isBusy = 0;
 	}
 )
 👇👇
+🔆 Update Results<PersonObject> <0x7fe895a04ca0> (
+	[0] PersonObject {
+		id = 1CD33C9B-21C1-42FE-9BDA-E32053D72DEC;
+		name = 1CD33C9B-21C1-42FE-9BDA-E32053D72DEC;
+		isBusy = 1;
+	}
+)
 ```
